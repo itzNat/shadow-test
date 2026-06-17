@@ -1,0 +1,8 @@
+{
+  "name": "Barry Bee Auto",
+  "description": "Benin City's Trusted Car Dealer. Buy, sell, swap and import cars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
