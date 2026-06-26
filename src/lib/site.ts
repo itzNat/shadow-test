@@ -1,8 +1,5 @@
-import iconAsset from "@/assets/barry-bee-icon.asset.json";
-import stackedAsset from "@/assets/barry-bee-stacked.asset.json";
-
-export const LOGO_ICON = iconAsset.url;
-export const LOGO_STACKED = stackedAsset.url;
+export const LOGO_ICON = "/logo-pry.jpg";
+export const LOGO_STACKED = "/logo-sec.jpg";
 
 export const SITE = {
   name: "Barry Bee Auto",
